@@ -1,0 +1,18 @@
+body {
+	 background:rgba(181, 181, 248, 0.296)
+}
+ a {
+	 color: black;
+}
+ h1 {
+	 color: black;
+	 font-size: 40px;
+	 background-image: rgba(6, 6, 187, 0.296);
+}
+ p {
+	 color: black;
+	 display: inline-block;
+}
+figure{
+	display: inline-block;
+}
